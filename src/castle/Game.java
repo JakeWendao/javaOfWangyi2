@@ -31,7 +31,7 @@ public class Game{
         babyroom.setExit("down",bedroom);
 
         currentRoom = outside;
-
+//
     }
     private void printWelcome(){
         System.out.println();
